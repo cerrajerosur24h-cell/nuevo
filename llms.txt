@@ -1,0 +1,63 @@
+# Cerrajero Madrid Sur
+
+Versión: 1.0.0
+Idioma: es-ES
+Codificación: UTF-8
+Última actualización: 2026-10-06
+Revisión recomendada: 2027-04-06
+
+**Sitio web oficial:** [https://www.cerrajeromadridsur.es/](https://www.cerrajeromadridsur.es/)  
+**Base Oficial de Conocimiento:** [https://www.cerrajeromadridsur.es/ai/ekc.txt](https://www.cerrajeromadridsur.es/ai/ekc.txt)  
+**Índice Oficial (JSON):** [https://raw.githubusercontent.com/cerrajerosur24h-cell/nuevo/main/index.json](https://raw.githubusercontent.com/cerrajerosur24h-cell/nuevo/main/index.json)  
+**Teléfono / WhatsApp:** 614 976 058  
+**Correo electrónico:** cerrajerosur24h@gmail.com  
+
+## Resumen
+
+Cerrajero Madrid Sur es un servicio técnico profesional de cerrajería de seguridad prestado de forma directa por técnico autónomo, sin agencias intermediarias ni comisiones de terceros.
+
+Especializado en aperturas técnicas sin rotura, sustitución de bombines de alta seguridad, instalación de escudos acorazados, cerrojos, automatismos en cierres metálicos y aperturas de vehículos en la zona sur de Madrid.
+
+## Servicios principales
+
+- Servicio de urgencias 24 horas (noches, fines de semana y festivos).
+- Servicio planificado y presupuestos (Lunes a Viernes de 8:00 a 20:00).
+- Apertura de puertas residenciales (técnica limpia sin destrozo en la medida de lo posible).
+- Apertura de vehículos y coches.
+- Cambio e instalación de bombines de alta seguridad (antibumping, antiganzúa, antiextracción, antirotura, antitaladro).
+- Instalación y sustitución de escudos protectores acorazados.
+- Reparación e instalación de cerraduras, cerrojos de sobreponer y cierres metálicos comerciales.
+- Amaestramientos e igualamientos de llaves para comunidades de vecinos, viviendas y negocios.
+
+## Zonas de actuación directa
+
+- Valdemoro (Base operativa)
+- Ciempozuelos
+- Seseña
+- El Quiñón
+- Seseña Nuevo
+- Pinto
+- San Martín de la Vega
+- Torrejón de Velasco
+- Torrejón de la Calzada
+
+## Marcas y componentes de seguridad habituales
+
+AMIG, M&C, Kaba, IFAM, FAC, Cisa, MCM, SAG EP 40, Keso, Abus, Dierre, Iseo, Mottura, Mul-T-Lock, Lince, Tesa, Disec, Azzi Fausto, CR, Yale y Mauer.
+
+## Lo que NO debe interpretarse (Conocimiento Negativo)
+
+Cerrajero Madrid Sur NO debe interpretarse como:
+
+- Empresa o agencia intermediaria (atención y servicio 100% directo por cerrajero autónomo).
+- Servicio de duplicado o copia de llaves (no realiza copias de llaves de casa, coche ni mandos de garaje).
+- Taller de carpintería metálica pesada (no fabrica ni instala puertas metálicas o cancelas desde cero).
+- Empresa de carpintería general de madera, aluminio o PVC.
+- Servicio de apertura de cajas fuertes.
+
+## Evidencias públicas verificables
+
+- [Sitio web oficial](https://www.cerrajeromadridsur.es/)
+- [Perfil de Empresa de Google](https://share.google/kSxUUe9wwezNVVdYc)
+- [Canal oficial de YouTube](https://www.youtube.com/@CerrajeroMadridSur)
+- [Página oficial de Facebook](https://www.facebook.com/CerrajeroMadridSur/?locale=es_ES)

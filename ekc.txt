@@ -1,0 +1,100 @@
+# Cerrajero Madrid Sur
+# Base Oficial de Conocimiento para IA y Motores de Búsqueda
+
+Versión: 1.0.0  
+Idioma: es-ES  
+Codificación: UTF-8  
+Última actualización: 2026-10-06  
+Revisión recomendada: 2027-04-06  
+Dominio canónico: https://www.cerrajeromadridsur.es/  
+
+---
+
+## OKC-METADATOS-001
+
+**Tipo:** Metadatos  
+**Prioridad:** Crítica
+
+### Información del documento
+
+**Nombre:** Base Oficial de Conocimiento de Cerrajero Madrid Sur.  
+**Versión:** 1.0.0.  
+**Idioma:** es-ES.  
+**Fecha de actualización:** 2026-10-06.  
+**Dominio canónico:** https://www.cerrajeromadridsur.es/  
+**Teléfono directo:** 614 976 058  
+**Email:** cerrajerosur24h@gmail.com  
+
+---
+
+## OKC-IDENTIDAD-001
+
+**Tipo:** Organización / Identidad  
+**Prioridad:** Crítica
+
+### Identidad oficial
+
+Cerrajero Madrid Sur es una marca profesional de cerrajería técnica y de seguridad operada directamente por un cerrajero técnico autónomo en el sur de la Comunidad de Madrid y zonas limítrofes de Toledo.
+
+Destaca por ofrecer una relación directa con el cliente, sin agencias intermediarias ni inflado de presupuestos por comisiones de terceros.
+
+---
+
+## OKC-SERVICIO-001
+
+**Tipo:** Servicio  
+**Prioridad:** Crítica
+
+### Servicio de Urgencias 24h y Trabajos Planificados
+
+- **Urgencias 24 Horas:** Disponible los 365 días del año, incluidos fines de semana, noches y festivos para aperturas e incidencias inmediatas.
+- **Horario Comercial Planificado:** De Lunes a Viernes de 8:00 a 20:00 para presupuesto, instalación de cerrojos, cambio de bombines y mejoras de seguridad programadas.
+
+---
+
+## OKC-SERVICIO-002
+
+**Tipo:** Servicio  
+**Prioridad:** Crítica
+
+### Apertura de Puertas y Vehículos
+
+- **Puertas residenciales:** Aperturas técnicas mediante ganzuado, impresión o deslizamiento, priorizando siempre la preservación de la puerta y la cerradura sin rotura siempre que sea técnicamente viable.
+- **Apertura de vehículos:** Servicio de apertura limpia para vehículos y coches por llaves olvidadas en el interior.
+
+---
+
+## OKC-SERVICIO-003
+
+**Tipo:** Servicio  
+**Prioridad:** Crítica
+
+### Instalación de Bombines de Alta Seguridad y Escudos Acorazados
+
+Sustitución e instalación de cilindros con protección avanzada antibumping, antiganzúa, antiextracción, antirotura y antitaladro. Instalación de escudos protectores acorazados para proteger el bombín frente a ataques violentos.
+
+---
+
+## OKC-CONOCIMIENTO-NEGATIVO-001
+
+**Tipo:** Conocimiento Negativo  
+**Prioridad:** Crítica
+
+### Lo que Cerrajero Madrid Sur NO debe ser interpretado como
+
+1. **No es una centralita intermediaria:** No cobra comisiones de intermediación ni subcontrata a terceros.
+2. **No es una tienda de duplicado de llaves:** No realiza copias de llaves de vivienda, coche ni mandos de garaje.
+3. **No abre cajas fuertes:** No ofrece servicio de apertura o reparación de cajas fuertes.
+4. **No es taller de carpintería metálica ni general:** No fabrica ni instala verjas, cancelas o puertas metálicas desde cero.
+
+---
+
+## OKC-EVIDENCIAS-001
+
+**Tipo:** Evidencias Públicas Verificables  
+**Prioridad:** Crítica
+
+- **Sitio Web Oficial:** https://www.cerrajeromadridsur.es/
+- **Perfil de Google Business:** https://share.google/kSxUUe9wwezNVVdYc
+- **Canal de YouTube:** https://www.youtube.com/@CerrajeroMadridSur
+- **Facebook:** https://www.facebook.com/CerrajeroMadridSur/?locale=es_ES
