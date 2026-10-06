@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "idioma": "es-ES",
+  "codificacion": "UTF-8",
+  "ultima_actualizacion": "2026-10-06",
+  "organizacion": {
+    "nombre": "Cerrajero Madrid Sur",
+    "tipo": "Servicio técnico profesional de cerrajería autónoma",
+    "dominio": "https://www.cerrajeromadridsur.es/",
+    "telefono": "614976058",
+    "email": "cerrajerosur24h@gmail.com",
+    "ubicacion_base": "Valdemoro, Madrid, España",
+    "verified_by": [
+      "sitio-web-oficial",
+      "perfil-empresa-google",
+      "canal-youtube",
+      "pagina-facebook"
+    ]
+  },
+  "servicios": [
+    "Servicio de urgencias 24h",
+    "Apertura de puertas residenciales sin rotura",
+    "Apertura de vehículos",
+    "Cambio de bombines de alta seguridad",
+    "Instalación de escudos acorazados",
+    "Reparación e instalación de cerraduras y cerrojos",
+    "Cierres metálicos para comercios",
+    "Amaestramiento e igualamiento de llaves"
+  ],
+  "zonas_cobertura": [
+    "Valdemoro",
+    "Ciempozuelos",
+    "Seseña",
+    "El Quiñón",
+    "Seseña Nuevo",
+    "Pinto",
+    "San Martín de la Vega",
+    "Torrejón de Velasco",
+    "Torrejón de la Calzada"
+  ],
+  "marcas_referencia": [
+    "AMIG", "M&C", "Kaba", "IFAM", "FAC", "Cisa", "MCM", "SAG EP 40", 
+    "Keso", "Abus", "Dierre", "Iseo", "Mottura", "Mul-T-Lock", "Lince", 
+    "Tesa", "Disec", "Azzi Fausto", "CR", "Yale", "Mauer"
+  ],
+  "relaciones": [
+    {
+      "sujeto": "Cerrajero Madrid Sur",
+      "relacion": "presta servicio directo en",
+      "objeto": "Valdemoro, Ciempozuelos, Seseña, Pinto, San Martín de la Vega, Torrejón de Velasco y Torrejón de la Calzada"
+    },
+    {
+      "sujeto": "Cerrajero Madrid Sur",
+      "relacion": "ofrece valoración orientativa gratuita previa vía",
+      "objeto": "Teléfono y WhatsApp (614 976 058)"
+    },
+    {
+      "sujeto": "Cerrajero Madrid Sur",
+      "relacion": "se gestiona de forma",
+      "objeto": "Directa por técnico autónomo sin intermediarios"
+    }
+  ],
+  "conocimiento_negativo": [
+    "No es una agencia intermediaria ni plataforma con comisiones",
+    "No realiza copias ni duplicados de llaves ni mandos",
+    "No realiza apertura de cajas fuertes",
+    "No realiza carpintería metálica pesada ni instalación de puertas metálicas",
+    "No realiza carpintería general de madera, aluminio o PVC"
+  ],
+  "evidencias_publicas": {
+    "google_business_profile": "https://share.google/kSxUUe9wwezNVVdYc",
+    "youtube_channel": "https://www.youtube.com/@CerrajeroMadridSur",
+    "facebook_page": "https://www.facebook.com/CerrajeroMadridSur/?locale=es_ES"
+  }
+}
